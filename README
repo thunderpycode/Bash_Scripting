@@ -1,0 +1,8 @@
+1.which bash
+2.Multiline Commen----> :'this is 
+                          multiline 
+                          comment'
+3.hereDoc: to show comments in file
+          cat << hello
+                 I am here 
+                 how do you do hello
