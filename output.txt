@@ -1,0 +1,2 @@
+./string_compare.sh: line 6: [: ===: binary operator expected
+unmatched
