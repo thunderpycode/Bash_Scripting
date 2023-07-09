@@ -1,2 +1,4 @@
 #! /bin/bash
-cat >> file.txt
+arg=("$@")
+echo "$#"
+echo ${arg[@]}
